@@ -10,7 +10,7 @@ git clone https://github.com/emaanpirzada/Kidney_MachineLearning.git
 
 Change working directory to ensure you are inside Kidney_MachineLearning:
 ```
-cd Kidney_MachineLearning
+cd Kidney-Cancer-Classification
 ```
 
 Create the necessary folder structure: 
