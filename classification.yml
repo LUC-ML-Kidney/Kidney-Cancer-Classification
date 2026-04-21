@@ -1,0 +1,6 @@
+name: classification
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /home/jcape/miniconda3/envs/classification
