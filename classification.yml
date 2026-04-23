@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11
+  - pandas
+  - scikit-learn
+  - ipykernel
 prefix: /home/jcape/miniconda3/envs/classification
