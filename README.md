@@ -5,7 +5,7 @@ All commands use the linux operating system.
 
 Clone the repo:
 ```
-git clone https://github.com/emaanpirzada/Kidney_MachineLearning.git
+git clone https://github.com/LUC-ML-Kidney/Kidney-Cancer-Classification.git
 ```
 
 Change working directory to ensure you are inside Kidney-Cancer-Classification:
