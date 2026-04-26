@@ -6,4 +6,5 @@ dependencies:
   - pandas
   - scikit-learn
   - ipykernel
+  - lightgbm
 prefix: /home/jcape/miniconda3/envs/classification
