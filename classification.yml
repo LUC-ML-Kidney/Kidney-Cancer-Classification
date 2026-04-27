@@ -7,4 +7,5 @@ dependencies:
   - scikit-learn
   - ipykernel
   - lightgbm
+  - xgboost
 prefix: /home/jcape/miniconda3/envs/classification
